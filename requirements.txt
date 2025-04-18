@@ -1,0 +1,28 @@
+# Core data processing and analysis libraries
+numpy
+pandas
+scipy
+
+# Visualization libraries
+matplotlib
+seaborn
+
+# Machine learning libraries
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Model persistence
+joblib
+
+# Statistical analysis
+statsmodels
+
+# Feature engineering tools
+category_encoders
+
+# Hyperparameter optimization
+optuna
+
+# Utilities
+tqdm
